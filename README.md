@@ -1,2 +1,2 @@
 # PR_Template
-PR template
+PR template Configurado
